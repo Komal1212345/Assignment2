@@ -1,5 +1,5 @@
 $(document).ready(function () {
     $("#BackButton").click(function () {
-        window.location.href = "Blog.html";
+        window.location.href = "Index.html";
     });
 });
